@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   image: {
     width: 150,
     height: 150,
-    borderRadius: 75,
+    borderRadius: 50,
     marginBottom: 20,
     borderWidth: 2,
     borderColor: '#333',
