@@ -13,7 +13,7 @@ const Exercise5 = () => {
         label="Password"
         secureTextEntry={true}
       />
-      <Button label="Sign In" />
+      <Button label="Sign In" onPress={() => console.log('button di klik')} />
       <Button label="Create New Account" color="#797171" colorText="#ffffff" />
       <Button label="Sign in with Google" color="#DB4437" colorText="#fff" />
       <Button label="Sign in with Facebook" color="#1877F2" colorText="#fff" />
